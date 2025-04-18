@@ -77,7 +77,7 @@ It connects:
 - Flow Decisions → decentralized alignment
 - Flow Roadmaps → visible progress
 
-[Learn how the Flywheel works →](/flywheel)
+[Learn how the Flywheel works →](https://fastflowflywheel.com){: target="_blank"}
 
 {% include feature_row id="feature_row" %}
 
@@ -94,4 +94,4 @@ The Fast Flow Platform is designed for facilitators and change agents who want t
 
 - [Get the Starter Kit](/starter-kit)
 - [Book a Call](/contact)
-- [Read the Book](https://facilitatingfastflow.com)
+- [Read the Book](https://facilitatingfastflow.com){: target="_blank"}
