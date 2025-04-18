@@ -20,8 +20,8 @@ header:
 
 feature_row:
   - image_path: /assets/images/icons/icon-userneedsmapping.png
-    alt: "User Needs Mapping"
-    title: "User Needs Mapping"
+    alt: "Align to User Needs"
+    title: "Align to User Needs"
     excerpt: "Uncover misaligned structures and refocus on what matters."
     url: "https://userneedsmapping.com"
     btn_class: "btn--primary"
@@ -77,7 +77,7 @@ It connects:
 - Flow Decisions → decentralized alignment
 - Flow Roadmaps → visible progress
 
-[Learn how the Flywheel works →](https://fastflowflywheel.com){: target="_blank"}
+[Learn how the Flywheel works →](/flywheel)
 
 {% include feature_row id="feature_row" %}
 
