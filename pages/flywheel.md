@@ -31,16 +31,16 @@ The more you use it, the easier it becomes to spot flow problems, apply effectiv
 
 The Flywheel spins through four key movements:
 
-1. Spot Flow Signals
+1. **Spot Flow Signals:**
 Notice early signs of friction in how teams, services, or leadership operate.
 
-1. Apply Fast Flow Plays
+1. **Apply Fast Flow Plays:**
 Use repeatable, context-aware plays to respond to signals.
 
-1. Capture Flow Decisions
+1. **Capture Flow Decisions:**
 Make structural and interaction-related decisions visible and testable.
 
-1. Build a Flow Roadmap
+1. **Build a Flow Roadmap:**
 Organize decisions in a Now–Next–Later roadmap to track progress and alignment.
 
 And then? You repeat.
@@ -68,7 +68,7 @@ Whether you're embedded in a delivery team or leading org design, the Flywheel g
 ## Explore the Flywheel in Detail
 
 🔗 Ready to go deeper?
-Visit [FastFlowFlywheel.com](https://fastflowflywheel.com) for a full walkthrough of the Flywheel.
+Visit [FastFlowFlywheel.com](https://fastflowflywheel.com/how-it-works/rotation-overview) for a full walkthrough of the Flywheel.
 
 ## Want to apply the Flywheel in your organization?
 
