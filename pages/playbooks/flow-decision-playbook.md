@@ -2,7 +2,7 @@
 permalink: /playbooks/flow-decision-playbook
 title: "Coming Soon: The Flow Decision Playbook"
 excerpt: "A toolkit for making confident, collaborative structural decisions."
-layout: splash
+layout: single
 author_profile: false
 classes: wide
 sidebar:

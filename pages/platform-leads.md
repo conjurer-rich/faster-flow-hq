@@ -6,7 +6,9 @@ author_profile: false
 classes: wide
 ---
 
-Your platform should accelerate teams—not add more friction. Faster Flow helps you understand your internal users, reduce cognitive load, and make platform decisions that drive real adoption.
+## Fast Flow for Platform and Internal Service Teams
+
+Your platform should accelerate teams—not add more friction. The Fast Flow Facilitator Platform helps you understand your internal users, reduce cognitive load, and make platform decisions that drive real adoption.
 
 ## You’re trying to…
 
@@ -17,7 +19,7 @@ Your platform should accelerate teams—not add more friction. Faster Flow helps
 
 But without a clear picture of your users and their needs, it’s easy to fall into the trap of building for assumptions—not outcomes.
 
-## Faster Flow Helps You
+## The Fast Flow Facilitator Platform Helps You
 
 **Map your internal users and their needs** - Use User Needs Mapping to clarify who you serve and what matters most.
 

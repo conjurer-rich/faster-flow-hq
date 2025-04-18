@@ -2,7 +2,7 @@
 permalink: /playbooks/platform-team-playbook
 title: "Coming Soon: The Platform Team Playbook"
 excerpt: "Deliver internal platforms your users actually want—and teams can rely on."
-layout: splash
+layout: single
 author_profile: false
 classes: wide
 sidebar:

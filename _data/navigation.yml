@@ -1,4 +1,8 @@
 main:
+  - title: "Overview"
+    url: /overview
+  - title: "Starter Kit"
+    url: /starter-kit
   - title: "Playbooks"
     url: /playbooks
   - title: "Contact"

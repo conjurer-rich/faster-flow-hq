@@ -2,7 +2,7 @@
 permalink: /playbooks/transformation-leaders-playbook
 title: "Coming Soon: The Transformation Leaders Playbook"
 excerpt: "Make structural change less chaotic—and more effective."
-layout: splash
+layout: single
 author_profile: false
 classes: wide
 sidebar:

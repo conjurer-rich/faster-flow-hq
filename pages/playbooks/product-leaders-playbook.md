@@ -2,7 +2,7 @@
 permalink: /playbooks/product-leaders-playbook
 title: "Coming Soon: The Product Leaders Playbook"
 excerpt: "Turn product strategy into organizational clarity."
-layout: splash
+layout: single
 author_profile: false
 classes: wide
 sidebar:

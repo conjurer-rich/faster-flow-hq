@@ -32,9 +32,9 @@ Designed for busy practitioners who want **practical support**, not just theory.
 
 ---
 
-## Available & Upcoming Playbooks
+## Available & Upcoming Resources & Playbooks
 
-### Available Now
+### Resources Available Now
 
 - 🔗 [**User Needs Mapping Playbook**](https://userneedsmapping.com/docs/introduction-to-user-needs-mapping/)  
   *Identify team and service boundaries that align with real user demand.*
@@ -63,5 +63,4 @@ Designed for busy practitioners who want **practical support**, not just theory.
 
 ## Not Sure Where to Start?
 
-- 👉 [Explore the Faster Flow Framework](https://fasterflowframework.com)  
-- 📊 [Take the Flow Signals ScoreApp](/scoreapp) to see which playbook fits your situation.
+- 👉 [Explore the Platform](/overview)  

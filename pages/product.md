@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-Big bets fall flat when the org isn’t aligned. Faster Flow helps Heads of Product realign teams, reduce delivery friction, and make structure a lever—not a blocker—for product outcomes.
+Big bets fall flat when the org isn’t aligned. The Fast Flow Facilitator Platform helps Heads of Product realign teams, reduce delivery friction, and make structure a lever—not a blocker—for product outcomes.
 
 ## You’re trying to…
 
@@ -17,7 +17,7 @@ Big bets fall flat when the org isn’t aligned. Faster Flow helps Heads of Prod
 
 But if your team structure doesn’t match how value flows, your roadmap is always at risk.
 
-## Faster Flow Helps You
+## The Fast Flow Facilitator Platform Helps You
 
 **Reveal where friction hides** - Use the Flow Signals Radar to surface structural misalignments that slow delivery or dilute ownership.
 

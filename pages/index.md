@@ -1,51 +1,97 @@
 ---
 permalink: /
 layout: splash
-title: "The home of organizational design for flow."
-excerpt: "Smarter Structure. Better Flow. Real Progress."
+title: "The Fast Flow Facilitator Platform"
+excerpt: > 
+  **Built by facilitators, for facilitators.**  
+
+  A modular system of tools, plays, and decisions to reduce cognitive load, improve flow and help enable alignment of teams within organizations.
 header:
   overlay_color: "#1D2731"
   overlay_image: /assets/images/hero-bg.jpg
   actions:
-    - label: "Explore the Framework"
-      url: "https://fasterflowframework.com"
+    - label: "Explore the Platform"
+      url: "/overview"
       btn_class: "btn--primary"
-    - label: "Book a Flow Clinic"
+    - label: "Book a Call"
       url: "/contact"
       btn_class: "btn--outline-light"
   text_color: "#F6F7F8"
+
+feature_row:
+  - image_path: /assets/images/icons/icon-userneedsmapping.png
+    alt: "User Needs Mapping"
+    title: "User Needs Mapping"
+    excerpt: "Uncover misaligned structures and refocus on what matters."
+    url: "https://userneedsmapping.com"
+    btn_class: "btn--primary"
+    btn_label: "Visit UserNeedsMapping.com →"
+  - image_path: /assets/images/icons/icon-flowdecisions.png
+    alt: "Flow Decisions"
+    title: "Flow Decisions"
+    excerpt: "Decentralize decisions and evolve your organization with intention."
+    url: "https://flowdecisionrecords.com"
+    btn_class: "btn--primary"
+    btn_label: "Visit FlowDecisionRecords.com →"
+  - image_path: /assets/images/icons/icon-plays-and-tactics.png
+    alt: "Plays and Tactics"
+    title: "Plays and Tactics"
+    excerpt: "Apply battle-tested responses to common flow signals."
+    url: "https://fastflowtoolkit.com/play-library"
+    btn_class: "btn--primary"
+    btn_label: "Visit FastFlowToolkit.com →"
+  - image_path: /assets/images/icons/icon-facilitatortoolkit.png
+    alt: "Facilitator Toolkit"
+    title: "Facilitator Toolkit"
+    excerpt: "Guides, templates, workshops and cards to use immediately."
+    url: "https://fastflowtoolkit.com"
+    btn_class: "btn--primary"
+    btn_label: "Explore Toolkit →"
+  - image_path: /assets/images/icons/icon-book-and-learning.png
+    alt: "Book & Learning"
+    title: "Book & Learning"
+    excerpt: "Read the book. Join the community. Learn from lived experience."
+    url: "https://facilitatingfastflow.com"
+    btn_class: "btn--primary"
+    btn_label: "Visit FacilitatingFastFlow.com →"
 ---
 
-If your teams are misaligned, your delivery is slowing, or your last reorg missed the mark—you’re not alone. Most organizations are structured for yesterday’s problems. Faster Flow helps you design for what’s next.
+![The Fast Flow Platform](/assets/images/fast-flow-platform-star.png){: .align-right width="400px"}
 
-We give transformation leaders, architects, and coaches the tools to uncover hidden blockers, validate better team boundaries, and build a shared roadmap of Flow Decisions that evolves as your strategy evolves.
+## A unified system to support facilitator-led change
 
-## What we offer
+The Fast Flow Platform is designed to help facilitators sense friction, guide structural decisions, and align teams with what matters—without getting stuck in top-down reorgs or endless workshops.
 
-**Reveal the signals** - Use tools like the Flow Signals Radar to uncover where flow is breaking down and why it matters.
+- Reduce cognitive load
+- Improve flow of change and value
+- Support intentional, repeatable progress
 
-**Make confident decisions** - Visualize options. Co-create Flow Decision Records. Move from reactive to intentional structural change.
+## The engine that turns signals into momentum
 
-**Align for value** - Organize around user needs, real capabilities, and business priorities—not internal silos.
+The Flywheel is the core mechanism facilitators use to move from sensing to doing—turning signals into decisions, and decisions into flow.
 
----
+It connects:
 
-## Built on proven techniques
+- Flow Signals → friction in the system
+- Fast Flow Plays → repeatable responses
+- Flow Decisions → decentralized alignment
+- Flow Roadmaps → visible progress
 
-Faster Flow brings together the most powerful ideas in modern org design:
+[Learn how the Flywheel works →](/flywheel)
 
-- Flow Engineering for aligning outcomes and constraints
-- Team Topologies for team patterns and interaction modes
-- A Beautiful Constraint for unlocking possibilities with what you have
-- User Needs Mapping for designing around what matters
+{% include feature_row id="feature_row" %}
 
-This isn’t a framework to follow—it’s a system to help you decide, adapt, and evolve.
+## Who is this for?
 
----
+The Fast Flow Platform is designed for facilitators and change agents who want to improve the flow of change and value within organizations.
 
-## Get started today
+- [Org Designers and Transformation Leads](/org-designers)
+- [Platform Team Leads](/platform-leads)
+- [Agile Coaches and Facilitators](/coach)
+- [Strategic Leaders Seeking Faster Flow](/strategic-leaders)
 
-Ready to shift from static org charts to dynamic flow?
-Start with the Flow Decision Playbook or join a Flow Clinic to explore what’s holding you back—and what’s possible.
+## New to Fast Flow?
 
-[Download a Playbook](/playbooks)
+- [Get the Starter Kit](/starter-kit)
+- [Book a Call](/contact)
+- [Read the Book](https://facilitatingfastflow.com)

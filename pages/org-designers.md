@@ -1,12 +1,14 @@
 ---
-permalink: /transformation
+permalink: /org-designers
 title: "Unblock Your Org. Build Flow Into the Structure."
 layout: splash
 author_profile: false
 classes: wide
 ---
 
-When your org is built for yesterday, even small changes feel hard. Faster Flow gives you tools to uncover misalignments, guide better structural decisions, and evolve with purpose—not chaos.
+## Fast Flow for Org Designers and Transformation Leaders
+
+When your org is built for yesterday, even small changes feel hard. The Fast Flow Facilitator Platform gives you tools to uncover misalignments, guide better structural decisions, and evolve with purpose—not chaos.
 
 ## You’re trying to…
 
@@ -17,7 +19,7 @@ When your org is built for yesterday, even small changes feel hard. Faster Flow 
 
 But without a clear picture of how value flows—or where it’s blocked—it’s impossible to lead change with confidence.
 
-## What Faster Flow gives you
+## How the Fast Flow Platform helps
 
 **Clarity** – Map current value flow, user needs, and where misalignment lives
 
@@ -35,8 +37,8 @@ But without a clear picture of how value flows—or where it’s blocked—it’
 
 ---
 
-[Download the Flow Decision Playbook](/playbooks/transformation-playbook)
+[Download the Transformation Leaders Playbook](/playbooks/transformation-leaders-playbook)
 
 or
 
-[Book a Flow Clinic](/flow-clinic)
+[Book a Flow Clinic](/contact)

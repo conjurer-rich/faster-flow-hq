@@ -1,12 +1,14 @@
 ---
-permalink: /cto
+permalink: /strategic-leaders
 title: "Organize for Flow. Lead with Confidence."
 layout: splash
 author_profile: false
 classes: wide
 ---
 
-Misaligned teams. Slowed delivery. Endless debates about ownership. Faster Flow gives you a practical system to align structure with strategy—so your organization can move faster, with less friction.
+## Fast Flow for Strategic Leaders
+
+Misaligned teams. Slowed delivery. Endless debates about ownership. The Fast Flow Facilitator Platform gives you a practical system to align structure with strategy—so your organization can move faster, with less friction.
 
 ## You’re accountable for…
 
@@ -17,7 +19,7 @@ Misaligned teams. Slowed delivery. Endless debates about ownership. Faster Flow 
 
 But too often, the team structure you inherit wasn’t built for what the org is trying to achieve today.
 
-## Faster Flow Helps You
+## The Fast Flow Facilitator Platform Helps You
 
 ### Expose hidden blockers
 
@@ -41,7 +43,7 @@ Organize around real value streams, capabilities, and user needs—not functiona
 
 ---
 
-[Explore the Framework](https://fasterflowframework.com)
+[Explore the Platform](/overview)
 
 or
 
