@@ -5,7 +5,7 @@ title: "The Fast Flow Facilitator Platform"
 excerpt: > 
   **Built by facilitators, for facilitators.**  
 
-  A modular system of tools, plays, and decisions to reduce cognitive load, improve flow and help enable alignment of teams within organizations.
+  A modular system of tools, plays, and decisions to **reduce cognitive load** and **improve flow of value** across your organization.
 header:
   overlay_color: "#1D2731"
   overlay_image: /assets/images/hero-bg.jpg
