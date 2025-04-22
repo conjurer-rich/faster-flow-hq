@@ -3,7 +3,7 @@ permalink: /
 layout: splash
 title: "🧭 Faster Flow HQ "
 excerpt: > 
-  Your guide to the tools and techniques behind the Fast Flow Flywheel.
+  Your guide to the tools and techniques behind the Fast Flow Flywheel™️.
 header:
   overlay_color: "#1D2731"
   overlay_image: /assets/images/hero-bg.jpg
@@ -16,11 +16,11 @@ header:
 ---
 This is the entry point to a growing ecosystem of practical, facilitator-tested tools designed to reduce cognitive load and accelerate the flow of change and value within organizations.
 
-Everything connects back to the Fast Flow Flywheel—the core system at the heart of this platform.
+Everything connects back to the Fast Flow Flywheel™️—the core system at the heart of this platform.
 
 ## 🚀 Start with the Flywheel
 
-The Fast Flow Flywheel helps you:
+The Fast Flow Flywheel™️ helps you:
 
 - Spot friction using Flow Signals
 - Respond with Fast Flow Plays
@@ -56,7 +56,7 @@ Understand blockers to flow and find feasible futures for team structure and int
 ## 🔄 Independent Service Heuristics
 
 Quickly validate team and service boundaries through a collaborative approach.
-→ [teamtopologies.com/tim](https://teamtopologies.com/ish){: target="_blank"}
+→ [teamtopologies.com/ish](https://teamtopologies.com/ish){: target="_blank"}
 
 ## 🎯 Fast Flow Toolkit
 
