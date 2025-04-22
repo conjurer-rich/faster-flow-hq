@@ -8,50 +8,11 @@ header:
   overlay_color: "#1D2731"
   overlay_image: /assets/images/hero-bg.jpg
   actions:
-    - label: "Explore the Platform"
-      url: "/overview"
-      btn_class: "btn--primary"
     - label: "Book a Call"
       url: "/contact"
       btn_class: "btn--outline-light"
   text_color: "#F6F7F8"
 
-feature_row:
-  - image_path: /assets/images/icons/icon-userneedsmapping.png
-    alt: "Align to User Needs"
-    title: "Align to User Needs"
-    excerpt: "Uncover misaligned structures and refocus on what matters."
-    url: "https://userneedsmapping.com"
-    btn_class: "btn--primary"
-    btn_label: "Visit UserNeedsMapping.com →"
-  - image_path: /assets/images/icons/icon-flowdecisions.png
-    alt: "Flow Decisions"
-    title: "Flow Decisions"
-    excerpt: "Decentralize decisions and evolve your organization with intention."
-    url: "https://flowdecisionrecords.com"
-    btn_class: "btn--primary"
-    btn_label: "Visit FlowDecisionRecords.com →"
-  - image_path: /assets/images/icons/icon-plays-and-tactics.png
-    alt: "Plays and Tactics"
-    title: "Plays and Tactics"
-    excerpt: "Apply battle-tested responses to common flow signals."
-    url: "https://fastflowtoolkit.com/play-library"
-    btn_class: "btn--primary"
-    btn_label: "Visit FastFlowToolkit.com →"
-  - image_path: /assets/images/icons/icon-facilitatortoolkit.png
-    alt: "Facilitator Toolkit"
-    title: "Facilitator Toolkit"
-    excerpt: "Guides, templates, workshops and cards to use immediately."
-    url: "https://fastflowtoolkit.com"
-    btn_class: "btn--primary"
-    btn_label: "Explore Toolkit →"
-  - image_path: /assets/images/icons/icon-book-and-learning.png
-    alt: "Book & Learning"
-    title: "Book & Learning"
-    excerpt: "Read the book. Join the community. Learn from lived experience."
-    url: "https://facilitatingfastflow.com"
-    btn_class: "btn--primary"
-    btn_label: "Visit FacilitatingFastFlow.com →"
 ---
 This is the entry point to a growing ecosystem of practical, facilitator-tested tools designed to reduce cognitive load and accelerate the flow of change and value within organizations.
 
@@ -72,15 +33,30 @@ The Fast Flow Flywheel helps you:
 
 Here’s how the rest of the platform fits together:
 
+## 📊 Outcome Maps
+
+Align on desired outcomes.
+→ [Outcome Maps](https://itrevolution.com/articles/the-five-maps-of-flow-engineering/){: target="_blank"}
+
 ## 🔄 Flow Decisions
 
 Make structural decisions visible, contextual, and decentralized.
 → [FlowDecisionRecords.com](https://flowdecisionrecords.com){: target="_blank"}
 
-## 🗺️ User Needs Mapping 
+## 🗺️ User Needs Mapping
 
 Understand who your users are and what they really need—then design your teams around that.
 → [UserNeedsMapping.com](https://userneedsmapping.com){: target="_blank"}
+
+## 🔄 Team Interaction Modelling
+
+Understand blockers to flow and find feasible futures for team structure and interactions.
+→ [teamtopologies.com/tim](https://teamtopologies.com/tim){: target="_blank"}
+
+## 🔄 Independent Service Heuristics
+
+Quickly validate team and service boundaries through a collaborative approach.
+→ [teamtopologies.com/tim](https://teamtopologies.com/ish){: target="_blank"}
 
 ## 🎯 Fast Flow Toolkit
 
@@ -101,12 +77,10 @@ Download the Fast Flow Starter Kit to access:
 - Top 5 Fast Flow Plays
 - User Needs Mapping primer
 
-→ Get the Starter Kit →
+[→ Get the Starter Kit →](https://fastflowflywheel.com//toolkit/toolkit-starter-kit){: target="_blank"}
 
 📬 Stay Connected
 We release new tools, plays, and techniques regularly.
 Join the list to get updates, free resources, and early access invites.
 
-→ Join the Newsletter →
-
-
+<script async data-uid="06c268f237" src="https://conjurer.kit.com/06c268f237/index.js"></script>
