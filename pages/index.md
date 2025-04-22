@@ -58,7 +58,7 @@ Understand blockers to flow and find feasible futures for team structure and int
 Quickly validate team and service boundaries through a collaborative approach.
 → [teamtopologies.com/ish](https://teamtopologies.com/ish){: target="_blank"}
 
-## 🎯 Fast Flow Toolkit
+## 🎯 Fast Flow Toolkit™️
 
 Hands-on templates, playbooks, and facilitator tools.
 → [FastFlowToolkit.com](https://fastflowtoolkit.com){: target="_blank"}
