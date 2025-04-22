@@ -25,4 +25,4 @@ Please feel free to [book some time with me](https://app.reclaim.ai/m/richard-al
 <i class="fas fa-envelope" title="Email"></i>
 [rich@conjurersolutions.co.uk](mailto:rich@conjurersolutions.co.uk)
 
-Please use the hashtag **#FasterFlowFramework** on social media when discussing the topic.
+Please use the hashtag **#FasterFlowFlywheel** on social media when discussing the topic.

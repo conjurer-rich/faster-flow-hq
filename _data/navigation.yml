@@ -1,19 +1,5 @@
 main:
   - title: "Overview"
     url: /overview
-  - title: "Starter Kit"
-    url: /starter-kit
-  - title: "Playbooks"
-    url: /playbooks
   - title: "Contact"
     url: /contact
-    
-playbooks:
-  - title: "Overview"
-    url: /playbooks
-  - title: "For Transformation Leaders"
-    url: /playbooks/transformation-leaders-playbook
-  - title: "For Product Leaders"
-    url: /playbooks/product-leaders-playbook
-  - title: "For Platform Teams"
-    url: /playbooks/platform-team-playbook

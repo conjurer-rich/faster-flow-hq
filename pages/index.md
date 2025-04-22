@@ -1,11 +1,9 @@
 ---
 permalink: /
 layout: splash
-title: "The Fast Flow Facilitator Platform"
+title: "🧭 Faster Flow HQ "
 excerpt: > 
-  **Built by facilitators, for facilitators.**  
-
-  A modular system of tools, plays, and decisions to **reduce cognitive load** and **improve flow of value** across your organization.
+  Your guide to the tools and techniques behind the Fast Flow Flywheel.
 header:
   overlay_color: "#1D2731"
   overlay_image: /assets/images/hero-bg.jpg
@@ -55,43 +53,60 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Visit FacilitatingFastFlow.com →"
 ---
+This is the entry point to a growing ecosystem of practical, facilitator-tested tools designed to reduce cognitive load and accelerate the flow of change and value within organizations.
 
-![The Fast Flow Platform](/assets/images/fast-flow-platform-star.png){: .align-right width="400px"}
+Everything connects back to the Fast Flow Flywheel—the core system at the heart of this platform.
 
-## A unified system to support facilitator-led change
+## 🚀 Start with the Flywheel
 
-The Fast Flow Platform is designed to help facilitators sense friction, guide structural decisions, and align teams with what matters—without getting stuck in top-down reorgs or endless workshops.
+The Fast Flow Flywheel helps you:
 
-- Reduce cognitive load
-- Improve flow of change and value
-- Support intentional, repeatable progress
+- Spot friction using Flow Signals
+- Respond with Fast Flow Plays
+- Make and record Flow Decisions
+- Visualize alignment with Flow Roadmaps
 
-## The engine that turns signals into momentum
+👉 Go to [FastFlowFlywheel.com](https://fastflowflywheel.com){: target="_blank"} →
 
-The Flywheel is the core mechanism facilitators use to move from sensing to doing—turning signals into decisions, and decisions into flow.
+##  🧩 Explore the Ecosystem
 
-It connects:
+Here’s how the rest of the platform fits together:
 
-- Flow Signals → friction in the system
-- Fast Flow Plays → repeatable responses
-- Flow Decisions → decentralized alignment
-- Flow Roadmaps → visible progress
+## 🔄 Flow Decisions
 
-[Learn how the Flywheel works →](/flywheel)
+Make structural decisions visible, contextual, and decentralized.
+→ [FlowDecisionRecords.com](https://flowdecisionrecords.com){: target="_blank"}
 
-{% include feature_row id="feature_row" %}
+## 🗺️ User Needs Mapping 
 
-## Who is this for?
+Understand who your users are and what they really need—then design your teams around that.
+→ [UserNeedsMapping.com](https://userneedsmapping.com){: target="_blank"}
 
-The Fast Flow Platform is designed for facilitators and change agents who want to improve the flow of change and value within organizations.
+## 🎯 Fast Flow Toolkit
 
-- [Org Designers and Transformation Leads](/org-designers)
-- [Platform Team Leads](/platform-leads)
-- [Agile Coaches and Facilitators](/coach)
-- [Strategic Leaders Seeking Faster Flow](/strategic-leaders)
+Hands-on templates, playbooks, and facilitator tools.
+→ [FastFlowToolkit.com](https://fastflowtoolkit.com){: target="_blank"}
 
-## New to Fast Flow?
+## 📚 Facilitating Fast Flow
 
-- [Get the Starter Kit](/starter-kit)
-- [Book a Call](/contact)
-- [Read the Book](https://facilitatingfastflow.com){: target="_blank"}
+The book that brings it all together. A practical guide to leading change without relying on reorgs.
+→ [FacilitatingFastFlow.com](https://facilitatingfastflow.com){: target="_blank"}
+
+## 🧰 Want to Get Started Fast?
+
+Download the Fast Flow Starter Kit to access:
+
+- Flow Signal cheatsheet
+- Flow Decision template
+- Top 5 Fast Flow Plays
+- User Needs Mapping primer
+
+→ Get the Starter Kit →
+
+📬 Stay Connected
+We release new tools, plays, and techniques regularly.
+Join the list to get updates, free resources, and early access invites.
+
+→ Join the Newsletter →
+
+
