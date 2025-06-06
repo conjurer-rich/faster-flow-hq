@@ -15,10 +15,8 @@ Thanks for putting your hand up. I'll be inviting a small group of early readers
 You won't just be reading, you'll be helping shape the final product. That means:
 
 - Getting access to selected chapters before anyone else
-- Seeing draft versions of tools like Flow Decision Records and Team Interaction Modelling
+- Seeing draft versions of things like the Fast Flow Toolkit and the Flow Decision Records
 - Sharing your feedback on what's clear, what's missing, and what needs sharpening
-
-Having the chance to shape the direction of examples, templates, and case studies
 
 ## What happens next?
 
